@@ -4,7 +4,8 @@
   "description": "bootstrap",
   "main": "index.html",
   "scripts": {
-    "start-sass": "sassy scss assets/styles"
+    "start-sass": "sassy scss assets/styles",
+    "build": "next build"
   },
   "author": "Panni",
   "license": "ISC",
